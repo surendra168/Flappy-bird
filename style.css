@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url("images/swirl.jpg");
+    background-size: cover;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("images/4622688.jpg");
+    background-size: cover;
+}
